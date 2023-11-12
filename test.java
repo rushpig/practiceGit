@@ -1,3 +1,5 @@
 public class test {
-    int D;
+    int E;
+    int B;
+    int c;
 }
